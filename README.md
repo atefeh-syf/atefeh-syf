@@ -13,14 +13,10 @@
 
 ## 🛠 Skills
 #### Languages:
-* Javascript ,  node.js
-* php
+* Javascript ,  node.js ,php
 #### Framework:
-* express
-* laravel
+* express ,laravel
 #### Database:
 * Mysql
 #### Tools:
-* git/git flow/gitlab CI/CD
-* npm 
-* composerQ
+* git/git flow/gitlab CI/CD , npm , composer
