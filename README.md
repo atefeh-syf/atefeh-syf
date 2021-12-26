@@ -1,22 +1,17 @@
 ## Hi everyone👋 . My name's Atefeh Seyfi.
 ### I'm a back-end Software Developer ...
-
-
 👩‍💻 I'm currently working on IBMCO
-
 🧠 I'm currently learning javascript
-
-💬 Ask me about php and javascript
 
 ### Connect with me:
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atefeh-seyfi)
 
 ## 🛠 Skills
 #### Languages:
-* Javascript ,  node.js ,php
+* php , Javascript ,  node.js
 #### Framework:
-* express ,laravel
+* laravel , express 
 #### Database:
-* Mysql
+* Mysql 
 #### Tools:
-* git/git flow/gitlab CI/CD , npm , composer
+* git/git-flow/gitlab CI/CD , npm , composer
