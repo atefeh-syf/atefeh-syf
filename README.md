@@ -9,8 +9,12 @@
 
 ### 🛠 Skills
 ##### Programming Languages : php , Javascript ,  node.js
-<img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/php.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/js.svg" width="40"/>
+<h3 align="left">Programming Languages:</h3>  
+  <p align="left"> 
+  <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/php.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/js.svg" width="40"/>
+  
+</p>
 
 ##### Framework : laravel , express 
 ##### Database : Mysql 
