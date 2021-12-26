@@ -20,6 +20,12 @@
     <img src="https://raw.githubusercontent.com/atefeh-syf/atefeh-syf/main/icons/laravel.svg" width="40"/>
     <img src="https://raw.githubusercontent.com/atefeh-syf/atefeh-syf/main/icons/expressjs.svg" width="40"/> 
 </p>
-##### Framework : laravel , express 
-##### Database : Mysql 
+
+<h3 align="left">Database & caching:</h3>  
+    <p align="left"> 
+    <img src="https://raw.githubusercontent.com/atefeh-syf/atefeh-syf/main/icons/mysql.svg" width="40"/>
+    <img src="https://raw.githubusercontent.com/atefeh-syf/atefeh-syf/main/icons/mariadb.svg" width="40"/>
+    <img src="https://raw.githubusercontent.com/atefeh-syf/atefeh-syf/main/icons/redis.svg" width="40"/> 
+</p>
+
 ##### Tools : git/git-flow/gitlab CI/CD , npm , composer
