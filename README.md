@@ -17,8 +17,8 @@
 
 <h3 align="left">Frameworks:</h3>  
     <p align="left"> 
-    <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/laravel.svg" width="40"/>
-    <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/express.svg" width="40"/> 
+    <img src="https://raw.githubusercontent.com/pkkulhari/atefeh-syf/master/icons/laravel.svg" width="40"/>
+    <img src="https://raw.githubusercontent.com/pkkulhari/atefeh-syf/master/icons/expressjs.svg" width="40"/> 
 </p>
 ##### Framework : laravel , express 
 ##### Database : Mysql 
