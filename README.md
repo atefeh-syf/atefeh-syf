@@ -5,8 +5,6 @@
 🧠 I'm currently learning javascript
 
 ### Connect with me:
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atefeh-seyfi)
-<p align="left"> 
   <a href="https://www.linkedin.com/in/atefeh-seyfi" target="blank"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="atefeh seyfi LinkedIn Profile" height="40" width="40"></a>
 </p>
 
