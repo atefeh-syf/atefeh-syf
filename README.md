@@ -2,8 +2,6 @@
 ### I'm a back-end Software Developer ...
 👩‍💻 I'm currently working on Asiatech Cloud Co
 
-///🧠 I'm currently learning javascript
-
 ### Connect with me:
   <a href="https://www.linkedin.com/in/atefeh-seyfi" target="blank"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="atefeh seyfi LinkedIn Profile" height="40" width="40"></a>
 </p>
