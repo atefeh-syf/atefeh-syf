@@ -2,6 +2,12 @@
 #### I'm a Atefeh Seyfi, Software Developer focusing on Golang and php.
 <a href="https://www.linkedin.com/in/atefeh-seyfi" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="atefeh seyfi LinkedIn Profile" height="25" width="100"></a>
 </p>
+👩‍💻 
+
+Here are some ideas to get you started:
+
+🔭 I'm currently working on Asiatech Cloud Co
+🌱 I’m currently concentrated on Go and microservices
 
 ### 🛠 Skills
 <h4 align="left">Programming Languages:</h4>  
