@@ -1,4 +1,4 @@
-## Hi everyone👋 . My name's Atefeh Seyfi.
+## Hi there 👋
 ### I'm a Atefeh Seyfi, Software Developer focusing on Golang and php.
 👩‍💻 I'm currently working on Asiatech Cloud Co
 
