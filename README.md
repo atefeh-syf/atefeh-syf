@@ -1,5 +1,5 @@
-## Hi there 👋
-### I'm a back-end Software Developer ...
+## Hi everyone👋 . My name's Atefeh Seyfi.
+### I'm a Atefeh Seyfi, Software Developer focusing on Golang and php.
 👩‍💻 I'm currently working on Asiatech Cloud Co
 
 ### Connect with me:
