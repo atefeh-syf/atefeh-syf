@@ -5,8 +5,10 @@
  
 
 Here are some ideas to get you started:
-  👩‍💻 I'm currently working on Asiatech Cloud Co
-  🌱 I’m currently concentrated on Go and microservices
+<ul>
+  <li>👩‍💻 I'm currently working on Asiatech Cloud Co</li>
+  <li>🌱 I’m currently concentrated on Go and microservices</li>
+</ul> 
 
 ### 🛠 Skills
 <h4 align="left">Programming Languages:</h4>  
