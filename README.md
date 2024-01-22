@@ -1,4 +1,4 @@
-## Hi everyone👋 . My name's Atefeh Seyfi.
+## Hi there 👋
 ### I'm a back-end Software Developer ...
 👩‍💻 I'm currently working on Asiatech Cloud Co
 
