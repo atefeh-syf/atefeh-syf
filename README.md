@@ -3,7 +3,7 @@
 👩‍💻 I'm currently working on Asiatech Cloud Co.
 
 ### Connect with me:
-  <a href="https://www.linkedin.com/in/atefeh-seyfi" target="blank"><img src="[https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg](https://camo.githubusercontent.com/ca24ddbd82f307d6a1542a3de744b03689fac039374cd05faf7f2ab36cc720ee/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564696e2d626c75653f7374796c653d706c6173746963266c6f676f3d4c696e6b6564696e266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f7777772e6c696e6b6564696e2e636f6d2f696e2f616c6578616e6465722d6272796b73696e)" alt="atefeh seyfi LinkedIn Profile" height="40" width="40"></a>
+  <a href="https://www.linkedin.com/in/atefeh-seyfi" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="atefeh seyfi LinkedIn Profile" height="40" width="40"></a>
 </p>
 
 ### 🛠 Skills
