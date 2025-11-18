@@ -6,7 +6,6 @@
 
 Here are some ideas to get you started:
 <ul>
-  <li>👩‍💻 I'm currently working on Asiatech Cloud Co</li>
   <li>🌱 I’m currently concentrated on Go and microservices</li>
 </ul> 
 
